@@ -12,14 +12,15 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 Я начинающий C# программист <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Новосибирска.
-- :telescope: Я пробую себя в разработке игр на Unity, есть простой проект, который я сделал в процессе самообучения.
+- :telescope: Я пробую себя в разработке игр на Unity, есть простой проекты, которые я сделал в процессе самообучения.
 - https://play.unity.com/mg/other/webgl-builds-141988
+- https://play.google.com/store/apps/details?id=com.GeM.InstaJong
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Так же занимаюсь изучением WPF и .NET технологиями, но пока без проектов, которые не стыдно показать.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles. :lotus_position:
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
