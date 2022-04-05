@@ -14,8 +14,8 @@
 
 ### :man_technologist: About Me :
 Я начинающий C# программист <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Новосибирска.
-- :telescope: Я пробую себя в разработке игр на Unity, есть простой проекты, которые я сделал в процессе самообучения. https://play.unity.com/mg/other/webgl-builds-141988, https://play.google.com/store/apps/details?id=com.GeM.InstaJong
-
+- :telescope: Я пробую себя в разработке игр на Unity, есть простой проекты, которые я сделал в процессе самообучения. https://play.unity.com/mg/other/webgl-builds-141988 и https://play.google.com/store/apps/details?id=com.GeM.InstaJong
+- 
 - :seedling: Так же занимаюсь изучением WPF и .NET технологиями. Пока без проектов, которые не стыдно показать.
 
 - :mailbox:Как найти меня: [![HH Badge](https://img.shields.io/badge/-hh-red?style=flat&logo=HH&logoColor=white)](https://novosibirsk.hh.ru/resume/b6a2e8f1ff06ca150c0039ed1f4f4b6753724c)
