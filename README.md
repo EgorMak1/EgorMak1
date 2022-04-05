@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611889a9e4053f366b2fd1e45c65d334c3b212d69f5&rid=giphy.gif&ct=g" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <!--
 **EgorMak1/EgorMak1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
