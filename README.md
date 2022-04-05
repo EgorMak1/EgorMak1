@@ -14,7 +14,8 @@
 
 ### :woman_technologist: About Me :
 Я начинающий C# программист <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Новосибирска.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: Я пробую себя в разработке игр на Unity, есть простой проект, который я сделал в процессе самообучения.
+- https://play.unity.com/mg/other/webgl-builds-141988
 
 - :seedling: Exploring Technical Content Writing.
 
