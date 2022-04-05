@@ -20,7 +20,7 @@
 
 - :seedling: Так же занимаюсь изучением WPF и .NET технологиями. Пока без проектов, которые не стыдно показать.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://novosibirsk.hh.ru/resume/b6a2e8f1ff06ca150c0039ed1f4f4b6753724c)
+- :mailbox:How to reach me: [![HH Badge](https://img.shields.io/badge/-hh-red?style=flat&logo=Linkedin&logoColor=white)](https://novosibirsk.hh.ru/resume/b6a2e8f1ff06ca150c0039ed1f4f4b6753724c)
 
 ---
 
