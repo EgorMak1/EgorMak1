@@ -16,7 +16,7 @@
 Я начинающий C# программист <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Новосибирска.
 - :telescope: Я пробую себя в разработке игр на Unity, есть простой проект, который я сделал в процессе самообучения. 
 - Игра бросок мяча в баскетбольное кольцо со счетчиком попаданий: https://play.unity.com/mg/other/webgl-builds-141988 
-- Проект надо которым работал  в команде: https://play.google.com/store/apps/details?id=com.GeM.InstaJong
+- Проект над которым работал в команде: https://play.google.com/store/apps/details?id=com.GeM.InstaJong
 
 - :seedling: Так же занимаюсь изучением WPF и .NET технологиями. Пока без проектов, которые не стыдно показать.
 
