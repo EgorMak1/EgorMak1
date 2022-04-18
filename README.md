@@ -14,7 +14,7 @@
 
 ### :man_technologist: Обо мне:
 Я начинающий C# программист <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Новосибирска.
-- :telescope: Я пробую себя в разработке игр на Unity, есть простой проекты, которые я сделал в процессе самообучения. 
+- :telescope: Я пробую себя в разработке игр на Unity, есть простой проект, который я сделал в процессе самообучения. 
 - Игра бросок мяча в баскетбольное кольцо со счетчиком попаданий: https://play.unity.com/mg/other/webgl-builds-141988 
 - Проект надо которым работал  в команде: https://play.google.com/store/apps/details?id=com.GeM.InstaJong
 
